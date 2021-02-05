@@ -1,0 +1,99 @@
+body,html{
+  margin:0 ;
+  background-color:rgb(215, 248, 209);  
+}
+
+#capa{
+    background-image:url("capa.jpg");
+    background-repeat:no repeat;
+    background-size:cover;
+    height:98vh;
+    text-align: center ;
+
+}
+#titulo{ 
+    padding-top: 23%;
+    font-size:70px;
+    color:rgb(156, 247, 38);
+    text-shadow: #0f3803;
+}
+
+#parte1{
+    text-align: center;
+    padding: 2%;
+}
+#parte2{ 
+    text-align: center;
+    padding: 2%;
+}
+
+#parte3{ 
+    text-align: center;
+    padding: 2%;
+    clear:both;
+} 
+
+.esquerda{
+    float: left;
+    padding-left:10%;
+}
+
+.direita{
+    float:right;
+    padding-right:10%;
+}
+
+.coluna2{
+    width: 41%;
+}
+
+.coluna3{
+    width: 35%;
+}
+.esquerda{
+    float: left;
+}
+ 
+.coluna4{
+    width: 35%;
+    padding: 2%;
+}
+
+h1{
+color: red;
+font-size:5vh;
+}
+
+p{ padding: 2%;
+  color:rgb(47, 134, 36);
+  font-size:4vh;
+  text-align:left;
+}
+    
+.coluna5{
+  width: 40%;
+  padding: 3%;
+}
+.coluna6{
+    width: 40%;
+    padding: 3%;
+}
+
+
+
+.
+
+.esquerda{
+        float:right;
+        padding-right:10%; 
+}
+ .iframe{
+}
+.direita{
+float:right;
+ padding-right:10%;
+}     
+.coluna7{
+    width: 40%;
+    padding: 3%;   
+}
